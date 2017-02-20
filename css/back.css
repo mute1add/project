@@ -1,0 +1,24 @@
+ body{
+ background-image: url('../img/fon.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+ }
+ p{color: white;}
+ table {
+    width: 700px; /* Ширина таблицы */
+    border: 1px solid green; /* Рамка вокруг таблицы */
+    margin:0 auto;
+ }
+ td { background: olive; }
+td { color: white; }
+td { border: 1px solid black; }
+nav{position: absolute;
+color:olive;
+width: 200px;}
+lable{
+ width: 100%; /* Ширина в процентах */
+ height: 100px;
+ margin: auto
+}
